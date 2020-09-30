@@ -1,25 +1,25 @@
 # Final-Dos
-a python script to Ddos website
+A python script to Ddos website
 
 # How to Run !?
-1 - download the script 
+1 - Download the script 
 
-2 - unzip the file and put him in your Desktop
+2 - Unzip the file and put him in your Desktop
 
-3 - open the terminal and type : cd Desktop/Final-Dos-master
+3 - Open the terminal and type : cd Desktop/Final-Dos-master
 
-4 - now type : python Final-Dos.py
+4 - Now type : python Final-Dos.py
 
-5 - script will run 
+5 - Script will run 
 
-6 - type your URL website ex : www.google.com
+6 - Type your URL website ex : www.google.com
 
-7 -  type your messgae ex : you have been hacked by VEGETA
+7 - Type your messgae ex : you have been hacked by VEGETA
 
 8 - Wait & Enjoy ;)
 
 # Contact :
-Fb : Lamani Fodil hani
+Facebook : Lamani Fodil hani
 
 gmail : lamanihani1@gmail.com
 
