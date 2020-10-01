@@ -4,7 +4,7 @@ a python script to Ddos website
 # How to Run !?
 1 - download the script 
 
-2 - unzip the file and put him in your Desktop
+2 - unzip the file and put it in your Desktop / Laptop .
 
 3 - open the terminal and type : cd Desktop/Final-Dos-master
 
@@ -12,9 +12,9 @@ a python script to Ddos website
 
 5 - script will run 
 
-6 - type your URL website ex : www.google.com
+6 - type your URL website; example : www.google.com
 
-7 -  type your messgae ex : you have been hacked by VEGETA
+7 -  type your messgae; example : you have been hacked by VEGETA
 
 8 - Wait & Enjoy ;)
 
