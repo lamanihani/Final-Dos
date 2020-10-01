@@ -1,4 +1,4 @@
-# Final-Dos
+# Final-Dos - An Amazing Project
 a python script to Ddos website
 
 # How to Run !?
