@@ -1,16 +1,16 @@
 # Final-Dos
-a python script to Ddos website
+a python script to Ddos website.
 
 # How to Run !?
-1 - download the script 
+1 - download the script,
 
-2 - unzip the file and put him in your Desktop
+2 - unzip the file and put him in your Desktop,
 
-3 - open the terminal and type : cd Desktop/Final-Dos-master
+3 - open the terminal and type : cd Desktop/Final-Dos-master,
 
-4 - now type : python Final-Dos.py
+4 - now type : python Final-Dos.py,
 
-5 - script will run 
+5 - script will run,
 
 6 - type your URL website ex : www.google.com
 
