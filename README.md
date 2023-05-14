@@ -1,7 +1,7 @@
-# Final-Dos
+# Final-Dos:
 a python script to Ddos website
 
-# How to Run !?
+# Installation and SetUp:
 1 - download the script 
 
 2 - unzip the file and put him in your Desktop
@@ -18,7 +18,7 @@ a python script to Ddos website
 
 8 - Wait & Enjoy ;)
 
-# Contact :
+# Contact:
 Fb : Lamani Fodil hani
 
 gmail : lamanihani1@gmail.com
